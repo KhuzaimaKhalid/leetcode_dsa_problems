@@ -6,7 +6,7 @@ public class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-class Solution4 {
+class Solution5 {
     public static ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode current = head;
